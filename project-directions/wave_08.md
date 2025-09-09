@@ -20,4 +20,4 @@ We want to practice one-to-many relationships similar to what we've seen in the 
     - Make sure to test out your new route in a browser or Postman before continuing!
 2. Create a nested route for `/planets/<planet_id>/moons` with the GET method which returns all moons for the planet with the id `<planet_id>`.
 
-If you finish and have more time, take a look at what could be refactored or discuss what other nested endpoints you think would be helpful!
+If you finish and have more time, take a look at what else could be refactored or discuss what other nested endpoints you think would be helpful!
