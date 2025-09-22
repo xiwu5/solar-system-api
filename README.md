@@ -39,19 +39,18 @@ We will focus on creating RESTful endpoints for CRUD operations.
 
 ## Project Directions
 
-### Part 1
 1. [Wave 01: Setup and Read](./project-directions/wave_01.md)
-1. [Wave 02: Read and 404s](./project-directions/wave_02.md)
-
-
-### Part 2
-2. [Wave 03: Connecting the Database, Read and Create Endpoints](./project-directions/wave_03.md)
-3. [Wave 04: Read, Update, and Delete](./project-directions/wave_04.md)
-4. [Wave 05: More Flask Queries](./project-directions/wave_05.md)
-5. [Wave 06: Writing Tests](./project-directions/wave_06.md)
+2. [Wave 02: Read and 404s](./project-directions/wave_02.md)
+3. [Wave 03: Connecting the Database, Read and Create Endpoints](./project-directions/wave_03.md)
+4. [Wave 04: Read, Update, and Delete](./project-directions/wave_04.md)
+5. [Wave 05: More Flask Queries](./project-directions/wave_05.md)
+6. [Wave 06: Writing Tests](./project-directions/wave_06.md)
+7. [Wave 07: Refactoring](./project-directions/wave_07.md)
+8. [Wave 08: One-to-Many Relationships](./project-directions/wave_08.md)
+9. [Wave 09: Deployment](./project-directions/wave_09.md)
 
 #### Database Setup/Update
-For Waves 04, 05, and 06, the new driver may need to setup or update their database. Follow these steps:
+For Waves 04 and beyond, the new driver may need to setup or update their database. Follow these steps:
 
 1. Pull down all new git commits
 1. Activate the virtual environment
